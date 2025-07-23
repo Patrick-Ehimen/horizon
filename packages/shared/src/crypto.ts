@@ -1,4 +1,4 @@
-import { ethers, getAddress, Wallet } from "ethers";
+import { ethers } from "ethers";
 import { createHash } from "crypto";
 
 /**

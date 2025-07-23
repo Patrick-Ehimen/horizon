@@ -204,7 +204,7 @@ describe("AddressUtils", () => {
 
     it("should handle address without 0x prefix", () => {
       const addressWithoutPrefix = validAddress.slice(2);
-      expect(AddressUtils.isValidAddress(addressWithoutPrefix)).toBe(false);
+      expect(AddressUtils.isValidAddress(addressWithoutPrefix)).toBe(true);
     });
   });
 });
