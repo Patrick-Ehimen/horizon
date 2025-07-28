@@ -1,0 +1,13 @@
+You should select me because I am a pragmatic builder, driven to bridge the gap between the visionary promise of the decentralized web and the practical reality of working applications. My background as a full-stack engineer has given me a deep appreciation for the entire technology stack, from the user interface down to the core infrastructure. I’m not content to just use APIs; I’m compelled to understand the fundamental protocols that power them.
+
+This is why I’m so drawn to Protocol Labs. I’m not just fascinated by the what --IPFS's content addressing or Filecoin's verifiable storage-- but by the how. I’m the kind of developer who is excited to dive into complex systems, understand their architecture, and contribute to making them more robust, efficient, and accessible for other developers to build upon.
+
+
+What excites me most about contributing to the Protocol Labs ecosystem is the opportunity to help build the foundational infrastructure for a more decentralized, resilient, and user-owned internet.
+
+
+My open-source contributions demonstrate a versatile skill set applied across the full web3 development lifecycle, from core protocol efficiency to developer experience and application level features. For foundational projects like OpenZeppelin, Sablier, and Cyfrin, I focused on lowering the barrier to entry by authoring comprehensive documentation and tutorials. My work on Sablier extended directly to the protocol layer, where I successfully optimized their Solidity contracts for gas efficiency, reducing onchain transaction costs for their users.
+
+I am passionate about improving developer workflows and security, which is reflected in my current project for Cyfrin: integrating their 'Aderyn' static analyzer as a Remix IDE plugin to make advanced security tooling more accessible. At the application layer, my work with Pulsefy involved architecting and implementing a sophisticated real time transaction monitoring system. This feature provides users with instant notifications and seamless portfolio integration, showcasing my ability to build complex, high value features from the ground up in a web3 environment.
+
+
